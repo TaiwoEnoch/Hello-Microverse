@@ -1,3 +1,1 @@
-# .gitignore
-node_modules/
 This file should be ignored by git
